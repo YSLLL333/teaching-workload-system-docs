@@ -1,0 +1,10 @@
+# ninja log v6
+6	91	7799765030351168	C:/Users/LH/Desktop/code/pro1/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	7e5c932720912796
+92	755	7799765036934193	pro1_autogen/timestamp	a5aeb5ee3488cb28
+92	755	7799765036934193	pro1_autogen/mocs_compilation.cpp	a5aeb5ee3488cb28
+92	755	7799765036934193	C:/Users/LH/Desktop/code/pro1/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/pro1_autogen/timestamp	a5aeb5ee3488cb28
+92	755	7799765036934193	C:/Users/LH/Desktop/code/pro1/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/pro1_autogen/mocs_compilation.cpp	a5aeb5ee3488cb28
+761	2762	7799765037881002	CMakeFiles/pro1.dir/pro1_autogen/mocs_compilation.cpp.obj	c5fa033dbb567862
+769	2861	7799765037951218	CMakeFiles/pro1.dir/main.cpp.obj	eb89a06234fb1256
+776	2866	7799765038031866	CMakeFiles/pro1.dir/mainwindow.cpp.obj	90bdeabca3cbdf0f
+2866	3124	7799765058919686	pro1.exe	1e71a2a1e8ac326a
